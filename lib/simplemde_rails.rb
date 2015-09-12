@@ -1,2 +1,2 @@
-module SimplemdeRails
-end
+require "simplemde-rails/version"
+require "simplemde-rails/form_builder"
