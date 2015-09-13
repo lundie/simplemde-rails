@@ -29,11 +29,11 @@ Or install it yourself as:
 ## Usage
 
 `simplemde` is added to your standard form helper `form_for`. Use it as
-you would a `text_field`.
+you would a `text_area`.
 
 ```erb
 <%= form_for @notification do |f| %>
-  <%= f.simplemde_text_field :message %>
+  <%= f.simplemde_text_area :message %>
 <% end %>
 ```
 ## Development
