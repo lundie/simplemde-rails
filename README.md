@@ -1,8 +1,12 @@
 [travis]: https://travis-ci.org/olejrosendahl/simplemde-rails
+[codeclimate]: https://codeclimate.com/github/blacktangent/simplemde-rails
+[coveralls]: https://coveralls.io/r/blacktangent/simplemde-rails
 
 # SimpleMDE Rails
 
 [![Build Status](https://travis-ci.org/olejrosendahl/simplemde-rails.svg?branch=master)][travis]
+[![Code Climate](https://codeclimate.com/github/blacktangent/simplemde-rails/badges/gpa.svg)][codeclimate]
+[![Test Coverage](http://img.shields.io/coveralls/blacktangent/simplemde-rails/master.svg)][coveralls]
 
 Rails form helper for using the excellent [SimpleMDE Markdown
 Editor](http://nextstepwebs.github.io/simplemde-markdown-editor/) in
