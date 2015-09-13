@@ -15,7 +15,7 @@ Find SimpleMDE on Github [here](https://github.com/NextStepWebs/simplemde-markdo
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'buttons_for'
+gem 'simplemde-rails'
 ```
 
 And then execute:
@@ -24,7 +24,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install buttons_for
+    $ gem install simplemde-rails
 
 ## Usage
 
